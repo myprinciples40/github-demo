@@ -1,0 +1,3 @@
+this is cherry-pick practice.
+git cherry-pick <commit-hash>
+Awesome!
